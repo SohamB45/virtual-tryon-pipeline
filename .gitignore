@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Datasets
+data/
+datasets/
+*.zip
+*.tar.gz
+
+# Model Checkpoints
+*.pth
+checkpoints/
+models/checkpoints/
+
+# Output
+output/
+results/
+inference/output/
+
+# Environments
+venv/
+env/
+*.egg-info/
+.DS_Store
+
+# OS-specific
+Thumbs.db
+desktop.ini
+
+# Logs and Misc
+*.log
+*.bak
