@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 ### 3. Download Dataset & Checkpoints
 
-- **VITON-HD Dataset**: [Google Drive](https://www.kaggle.com/datasets/marquis03/high-resolution-viton-zalando-dataset?select=test)
+- **VITON-HD Dataset**: [Link](https://www.kaggle.com/datasets/marquis03/high-resolution-viton-zalando-dataset?select=test)
 - **Pre-trained Models**:
   - `gmm_final.pth` → `models/checkpoints/GMM/`
   - `tom_final.pth` → `models/checkpoints/TOM/`
